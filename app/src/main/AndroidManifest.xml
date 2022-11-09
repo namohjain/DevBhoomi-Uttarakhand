@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.devbhoomiuttarakhand">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DevBhoomiUttarakhand"
+        tools:targetApi="31">
+        <activity
+            android:name=".CultureActivity"
+            android:exported="false"
+            android:label="Cultral Bidiversity"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".Functionals"
+            android:exported="false"
+            android:label="Functional Diversities"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".FaunalActivity"
+            android:exported="false"
+            android:label="Faunal Species Of Uttarakhand"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".FloralActivity"
+            android:exported="false"
+            android:label="Floral Species Of Uttarakhand"
+            android:parentActivityName=".MainActivity2" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false"
+            android:label="Conservative Measures"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Main3Activity"
+            android:exported="false"
+            android:label="Threats To The Biodiversity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false"
+            android:label="Categories"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

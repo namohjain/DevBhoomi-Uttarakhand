@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnConverter</string>
+    <string name="namoh_s_converter">Namoh\'s Converter</string>
+    <string name="mass">MASS</string>
+    <string name="enter_the_mass_in_kgs">Enter The Mass In Kgs</string>
+    <string name="convert">Convert</string>
+</resources>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">AnotherEg</string>
+    <string name="textView">
+          INTRODUCTION
+The term biodiversity was coined by E.O. Wilson in 1985.
+Biodiversity may be defined as the biological diversity of any area that
+includes all of its species viz., animals, plants, microorganisms and their
+genes, water ecosystems, terrestrial, and marine ecosystems in which they
+all are present. Uttarakhand state comes under the Central Himalayan
+region of India and is divided into two administrative regions, Kumaun and
+Garhwal. Uttarakhand state is well known for its rich biodiversity and is
+known as the natural reservoir of India [1]. There is a diverse range of
+floral, faunal and microbial wealth in Uttarakhand including rare and
+threatened species of plants and animals.
+Forests Diversity
+The state has a large forest cover area. Forests are economically as
+well as environmentally important for the area. Approx. 3,466 thousand
+hectares of land is reported to be covered by forests that account for about
+Natural Resources and Biodiversity of Uttarakhand
+4
+62.27% of geographical area of the state [2]. Forests are the storehouse of
+the biodiversity and also help in regulating the climatic cycle. They play a
+pivotal role in the sustenance of the locals as they provide fodder, fuel,
+timber and leaf litter for manuring crop fields, construction and industrial
+raw material. However, Due to increase in population, there is a sharp
+decline in forest resources resulted in degradation of forest and
+deterioration of environment [1].
+Medicinal and Aromatic Plants Diversity
+Uttarakhand has been traditionally known as the gold mine of
+medicinal plants and has declared as the herbal state in 2003 [3]. About 700
+species of medicinal plants are found in the state of which 682 species are
+angiosperm, 12 are gymnosperm and 7 species are fern that used in drug
+and pharmaceutical industries as well as also used in Ayurvedic, Unani and
+other traditional systems of medicine. The growth rate of India is 22% in
+this sector which is much higher against the global average of 7% [4]. The
+state government is working hard towards the strengthening of this sector
+so that it could be used for the development of rural area.
+Agricultural Diversity
+Agriculture is the main source of livelihood of the Uttarakhand
+population. More than 75% of the total population of the state is engaged in
+agricultural practices. Traditional subsistence farming is the prevalent form
+of farming system in Uttarakhand but this practice is inviable for providing
+a sustainable livelihood. The main grown crop of the state is wheat
+followed by rice and millets [2].
+Horticulture
+The climate of Uttarakhand is suitable for growing different types of
+temperate, sub-tropical and tropical fruits.If wild varieties are excluded,
+then a total of 19 different types of fruits are grown in the state [1].
+Temperate fruits, such as apple, apricot, cherry, peach, pear, plum and
+walnut, are grown at the height of 1,000m ~ 3,000m [5] while banana,
+citrus, guava, litchi, mango, papaya, strawberry and different vegetables
+Natural Resources and Biodiversity of Uttarakhand
+5
+and crops are grown in the places at altitudinal height of 300m to 1,400m.
+but the lack of post harvesting technologies, marketing facilities, and their
+storage are the main limiting factors for the rapid and systematic
+development of cultivation and marketing of fruits and vegetables in the
+state [2]. As the scope of growth in conventional agriculture is restricted,
+horticulture provides a better alternative for diversification and increased
+employment [1].
+Floriculture
+Floriculture is the growing sector of Uttarakhand as its climate is
+ideal for growing different types of the flower which in turn provide
+employment opportunities to the farmers of the region. Exquisite varieties
+of flowers like Carnation, Lily, Chrysanthemum, Gladiolus, Gerbera and
+Indian red roses that are in high demand in domestic as well as in foreign
+markets are produced in the state [1]. As the environment suitable for
+growing flowers, it is proposed to develop Floriculture Parks in
+Uttarakhand with common infrastructure facilities for sorting, pre-cooling,
+cold chain, processing, grading and packing/marketing facilities [2].1.1	INTRODUCTION
+
+
+Uttarakhand the 27th state of Republic of India was carved out of UP on 9th November 2000. The geographical area of the state is 53483 sq. km and the terrain and topography of the state is largely hilly with large areas under snow cover and steep slopes. Uttarakhand State comprises of 02 regions 13 districts, 78 Tehsils and 95 community development blocks.
+
+The floral and faunal composition is diverse and interesting. Between the Himalaya in the north and the hills and the plateau in the south lies a vast Gangetic Plains which is one of the largest homogenous alluvial plains in the world.
+
+Major portion of the state is mountainous and these mountains (Himalayas) are one of the youngest mountain systems of the world (40 million years in age compared to peninsular mountains of 1500-2500 million years old) and hence ecologically very fragile and relatively much more susceptible to earthquakes and landslides.
+
+The present state of the Uttarakhand conforms to its rich heritage status supported by a rich floral diversity, vegetation, forest cover, healthy and pristine ecosystem and tremendous conservation efforts from species level to genetic level and to ecosystem level. Due to its unique bio-diversity, the state is also home to several rare and endangered species of herbal and aromatic plants. Realizing the immense potential of this resource in the state, the state government has declared Uttarakhand as a Herbal State.
+
+
+
+1.2	WHAT IS ANDROID APP DEVELOPMENT??
+
+
+Android app development is the process by which applications are created for devices running on the Android operating system. Google states that  Android apps can be written using Kotlin, Java, and C++ languages”, using the Android software development kit (SDK), while using other languages is also possible.
+
+All non-Java virtual machine (JVM) languages, such as Go, JavaScript, C, C++ or assembly, need the help of JVM language code, that may be supplied by tools, likely with restricted API support. Some programming languages and tools allow cross-platform app support (i.e. for both Android and iOS). Third party tools, development environments, and language support have also continued to evolve and expand since the initial SDK was released in 2008. The official Android app distribution mechanism to end users is Google Play; it also allows staged gradual app release, as well as distribution of pre-release app versions to testers.
+
+1.3	ABOUT PROJECT
+As the name suggests, the mobile app represents the Biodiversity of Uttarakhand. Biodiversity may be defined as the biological diversity of any area that includes all of its species viz., animals, plants, microorganisms and their genes, water ecosystems, terrestrial, and marine ecosystems in which they all are present. Uttarakhand state comes under the Central Himalayan region of India and is divided into two administrative regions, Kumaun and Garhwal. Uttarakhand state is well known for its rich biodiversity and is known as the natural reservoir of India. There is a diverse range of floral, faunal and microbial wealth in Uttarakhand including rare and threatened species of plants and animals.
+      I   had named my mobile app  “DevBhoomi : Uttarakhand” as Uttarakhand is the Land  of Gods. In the  app I‘ve  shown how the biodiversity of Uttarakhand is classified based on  the classifications – Floral andFaunal species as well based upon the region and culture of it.
+CHAPTER 2 REQUIREMENTS OF PROJECT
+2.1	HARDWARE REQUIREMENTS
+
+         Here I mention System requirement for building App in Android.
+•	Microsoft Windows 7/8/10 (32 or 64 bit)
+•	2 GB RAM minimum, 8 GB recommended
+•	2 GB of available disk space minimum, 4 GB recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+•	1280 x 800 minimum screen resolution
+•	Java Development Kit (JDK) 8
+
+
+2.2	SOFTWARE REQUIREMENT
+
+          Following is the list of software you will need before you start your Android.
+•	Java JDK5 or latest version
+•	Java Runtime Environment (JRE) 6
+•	Android SDK
+•	Android Studio
+•	Eclipse IDE for Java Developers
+•	Android Development Tool kit (ADT kit) / Eclipse
+For testing purpose you will require a physical device because as per my experience it run smoothly than PC Emulator.
+
+2.3	LIBRARIES:
+•	Numpy (pip install numpy)
+•	OpenCV (pip install cv2)
+•	Keras (pip install keras)
+•	Tensorflow (As we know that keras uses Tensorllow as backend) (pip install tensorflow)
+•	Matplotlib (To visualize our Data) (pip install matplotlib)
+•	Pandas (pip install pandas)
+
+2.4	DATASET:
+We will be using a Dataset given by sachin patel. The name of this dataset is A-Z Handwritten Alphabets in.csv file. This dataset is basically a csv file which contains 372450 images of alphabets of 28•28 size.
+The dataset contains 26 folders (A-Z) containing handwritten images in size 28*28 pixels, each alphabet in the image is centre fitted to 2020 pixel box.
+Each image is stored as Gray-level.
+
+
+    </string>
+</resources>
